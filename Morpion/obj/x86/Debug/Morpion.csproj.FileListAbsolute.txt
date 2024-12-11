@@ -49,3 +49,10 @@ D:\Cours (Prof)\Sio\Ap\Ap 2\élève\Morpion\Morpion\obj\x86\Debug\Morpion.csproj
 D:\Cours (Prof)\Sio\Ap\Ap 2\élève\Morpion\Morpion\obj\x86\Debug\Morpion.csproj.CoreCompileInputs.cache
 D:\Cours (Prof)\Sio\Ap\Ap 2\élève\Morpion\Morpion\obj\x86\Debug\Morpion.exe
 D:\Cours (Prof)\Sio\Ap\Ap 2\élève\Morpion\Morpion\obj\x86\Debug\Morpion.pdb
+C:\Users\a.chakir\Desktop\Ap 3 c# Jeux\Morpion\Morpion\Morpion\obj\x86\Debug\Morpion.csproj.AssemblyReference.cache
+C:\Users\a.chakir\Desktop\Ap 3 c# Jeux\Morpion\Morpion\Morpion\obj\x86\Debug\Morpion.csproj.CoreCompileInputs.cache
+C:\Users\a.chakir\Desktop\Ap 3 c# Jeux\Morpion\Morpion\Morpion\obj\x86\Debug\Morpion.exe
+C:\Users\a.chakir\Desktop\Ap 3 c# Jeux\Morpion\Morpion\Morpion\obj\x86\Debug\Morpion.pdb
+C:\Users\a.chakir\Desktop\Ap 3 c# Jeux\Morpion\Morpion\Morpion\bin\Debug\Morpion.exe.config
+C:\Users\a.chakir\Desktop\Ap 3 c# Jeux\Morpion\Morpion\Morpion\bin\Debug\Morpion.exe
+C:\Users\a.chakir\Desktop\Ap 3 c# Jeux\Morpion\Morpion\Morpion\bin\Debug\Morpion.pdb

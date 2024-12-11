@@ -11,6 +11,19 @@ namespace Morpion
         // Fonction permettant l'affichage du Morpion
         public static void AfficherMorpion(int j, int k)
         {
+            for (var p = 0; p < grille.GetLength(0); p++)
+            {
+                Console.Write("\n|====|====|====|\n");
+                Console.Write("|");
+                for (var i = 0; i < grille.GetLength(1); i++)
+                {
+                    Console.Write("    ");
+                    Console.Write("|");
+                }
+             
+            }
+            Console.Write("\n|====|====|====|\n");
+
             // A compléter 
         }
 
@@ -55,10 +68,11 @@ namespace Morpion
 			        grille[j,k] = 10;
             while(!gagner && essais != 9)
             {
-
+                AfficherMorpion(j, k);
                 // A compléter 
                 try
                 {
+                    Console.WriteLine("C'est au tour de joueur 1   :    ");
                     Console.WriteLine("Ligne   =    ");
                     Console.WriteLine("Colonne =    ");
                     // Peut changer en fonction de comment vous avez fait votre tableau.
