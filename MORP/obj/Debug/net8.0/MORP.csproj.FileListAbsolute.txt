@@ -1,0 +1,14 @@
+C:\Users\a.chakir\source\repos\MORP\MORP\obj\Debug\net8.0\MORP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.chakir\source\repos\MORP\MORP\obj\Debug\net8.0\MORP.AssemblyInfoInputs.cache
+C:\Users\a.chakir\source\repos\MORP\MORP\obj\Debug\net8.0\MORP.AssemblyInfo.cs
+C:\Users\a.chakir\source\repos\MORP\MORP\obj\Debug\net8.0\MORP.csproj.CoreCompileInputs.cache
+C:\Users\a.chakir\source\repos\MORP\MORP\bin\Debug\net8.0\MORP.exe
+C:\Users\a.chakir\source\repos\MORP\MORP\bin\Debug\net8.0\MORP.deps.json
+C:\Users\a.chakir\source\repos\MORP\MORP\bin\Debug\net8.0\MORP.runtimeconfig.json
+C:\Users\a.chakir\source\repos\MORP\MORP\bin\Debug\net8.0\MORP.dll
+C:\Users\a.chakir\source\repos\MORP\MORP\bin\Debug\net8.0\MORP.pdb
+C:\Users\a.chakir\source\repos\MORP\MORP\obj\Debug\net8.0\MORP.dll
+C:\Users\a.chakir\source\repos\MORP\MORP\obj\Debug\net8.0\refint\MORP.dll
+C:\Users\a.chakir\source\repos\MORP\MORP\obj\Debug\net8.0\MORP.pdb
+C:\Users\a.chakir\source\repos\MORP\MORP\obj\Debug\net8.0\MORP.genruntimeconfig.cache
+C:\Users\a.chakir\source\repos\MORP\MORP\obj\Debug\net8.0\ref\MORP.dll
